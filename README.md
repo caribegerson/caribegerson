@@ -7,4 +7,4 @@ Sou analista de segurança da informação, mas gosto de programar nas horas vag
 
 <br>
 
-![Gerson GitHub stats](https://github-readme-stats.vercel.app/api?username=caribegerson&show_icons=true&theme=radical)
+![Gerson stats](https://github-readme-stats.vercel.app/api?username=caribegerson&show_icons=true&theme=radical)
